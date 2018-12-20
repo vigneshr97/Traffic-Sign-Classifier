@@ -164,6 +164,7 @@ Predictions for third image
 
 
 Predictions for fourth image
+
 | Probability         	|     Prediction	        					    | 
 |:---------------------:|:-------------------------------------------------:| 
 | 1.000         			| Slippery Road   						    | 
@@ -173,6 +174,7 @@ Predictions for fourth image
 | <0.001				| Bumpy Road       						|
 
 Predictions for fifth image
+
 | Probability         	|     Prediction	        					    | 
 |:---------------------:|:-------------------------------------------------:| 
 | 1.000         			| Stop   						    | 
