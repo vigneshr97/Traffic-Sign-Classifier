@@ -142,6 +142,7 @@ For the first image, the model is very sure that the sign is a speed limit of 60
 
 
 For the second image, the model is almost sure with a probability of 0.868 with a bumpy road being predicted with a probability of 0.132. The other probabilities were almost zero with the order being Children crossing, Dangerous curve to the right and slippery road. In many other runs, the bumpy road sign was the one that was actually predicted.
+
 | Probability         	|     Prediction	        					    | 
 |:---------------------:|:-------------------------------------------------:| 
 | 0.868         			| Bicycles Crossing   						    | 
@@ -152,6 +153,7 @@ For the second image, the model is almost sure with a probability of 0.868 with 
 
 The last three signs encountered precise and accurate predictions with the probabilities of predictions being almost equal to 1.
 Predictions for third image
+
 | Probability         	|     Prediction	        					    | 
 |:---------------------:|:-------------------------------------------------:| 
 | 1.000         			| Road work   						    | 
